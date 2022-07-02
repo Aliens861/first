@@ -1,1 +1,2 @@
-public static void Praktikum
+public static Praktikum
+void main(){
